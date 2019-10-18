@@ -10,6 +10,6 @@ WRITE: 'Hello World'.
 WRITE: 'Add a line from T61'.
 
 
-WRITE: 'Neues Feature'.
+
 
 WRITE: 'This is a cool new feature'.
